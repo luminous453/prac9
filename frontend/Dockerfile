@@ -1,4 +1,3 @@
-FROM ubuntu:latest
-LABEL authors="Мария"
-
-ENTRYPOINT ["top", "-b"]
+FROM nginx:alpine
+COPY . /usr/share/nginx/html
+EXPOSE 80
