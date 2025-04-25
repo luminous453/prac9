@@ -17,5 +17,6 @@
     ```shell
    http://localhost:8080
    ```
-    
+
+![Image alt](https://vk-esperans.ru/wp-content/uploads/2023/11/sergey-semin-y0wxj3xqjz0-unsplash.jpg)
 ![image](https://avzvet.ru/upload/iblock/14e/vitaminy-dlya-kotyat_0@2x.jpg](https://vk-esperans.ru/wp-content/uploads/2023/11/sergey-semin-y0wxj3xqjz0-unsplash.jpg)
